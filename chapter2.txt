@@ -1,0 +1,1 @@
+textLebel.text = "welcome to swift"
